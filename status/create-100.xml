@@ -12,9 +12,8 @@
 		<title>create-100</title>
 		<guid isPermaLink="false">100</guid>
 		<status>create</status>
-		<description><![CDATA[create-100]]]></description>
-		<content:encoded><![CDATA[<p>sample sample</p>
-]]></content:encoded>
+		<description><![CDATA[create-100]]></description>
+		<content:encoded><![CDATA[<p>sample sample</p>]]></content:encoded>
 		</item>
-  </channel>
+</channel>
 </rss>
