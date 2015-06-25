@@ -8,30 +8,14 @@
 	>
 
 <channel>
-	<title>Dan Gayle</title>
-	<atom:link href="http://www.dangayle.com/feed/" rel="self" type="application/rss+xml" />
-	<link>http://www.dangayle.com</link>
-	<description></description>
-	<lastBuildDate>Tue, 28 Oct 2014 23:54:42 +0000</lastBuildDate>
-	<language>en-US</language>
-		<sy:updatePeriod>hourly</sy:updatePeriod>
-		<sy:updateFrequency>1</sy:updateFrequency>
-	
+	<title>Create Sample</title>
 	<item>
-		<title>Beans</title>
-		<link>http://www.dangayle.com/beans/</link>
-		<comments>http://www.dangayle.com/beans/#comments</comments>
-		<pubDate>Tue, 28 Oct 2014 23:54:42 +0000</pubDate>
-		<dc:creator><![CDATA[Dan Gayle]]></dc:creator>
-				<category><![CDATA[Misc]]></category>
-
-		<guid isPermaLink="false">http://www.dangayle.com/?p=1389</guid>
-		<description><![CDATA[Without beans there would be no chili. Without chili there would be no chili dogs. Without chili dogs, the global hot dog market would crash. If the global hot dog market crashes, pork futures crash. If pork futures crash, pigs will take over the world. If pigs take over the world, well, it wouldn&#8217;t be [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Without beans there would be no chili. Without chili there would be no chili dogs. Without chili dogs, the global hot dog market would crash. If the global hot dog market crashes, pork futures crash. If pork futures crash, pigs will take over the world. If pigs take over the world, well, it wouldn&#8217;t be much different than it is today, except there still wouldn&#8217;t be chili dogs.</p>
-<p>Thank God for beans.</p>
+		<title>Create SAmple</title>
+		<guid isPermaLink="false">100</guid>
+		<status>create</status>
+		<description><![CDATA[sample sample]]]></description>
+		<content:encoded><![CDATA[<p>sample sample</p>
 ]]></content:encoded>
-			<wfw:commentRss></wfw:commentRss>
-		<slash:comments>0</slash:comments>
 		</item>
   </channel>
 </rss>
