@@ -6,14 +6,13 @@
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	>
-
 <channel>
 	<title>Create Sample</title>
 	<item>
-		<title>Create SAmple</title>
-		<guid isPermaLink="false">100</guid>
+		<title>create-300</title>
+		<guid isPermaLink="false">300</guid>
 		<status>create</status>
-		<description><![CDATA[sample sample]]]></description>
+		<description><![CDATA[create-300]]]></description>
 		<content:encoded><![CDATA[<p>sample sample</p>
 ]]></content:encoded>
 		</item>
