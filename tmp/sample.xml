@@ -9,10 +9,10 @@
 <channel>
 	<title>Create Sample</title>
 	<item>
-		<title>update-3</title>
+		<title>update-4</title>
 		<guid isPermaLink="false">4sss32dewedw</guid>
 		<pubDate>Fri, 26 Aug 2014 12:00:00 +0900</pubDate>
-		<lastpubdate>Fri, 26 Aug 2014 19:10:17 +0900</lastpubdate>
+		<lastpubdate>Fri, 26 Aug 2014 19:15:17 +0900</lastpubdate>
 		<status>update</status>
 		<description><![CDATA[create-100]]></description>
 		<content:encoded><![CDATA[<p>sample sample</p>]]></content:encoded>
